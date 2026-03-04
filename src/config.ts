@@ -115,7 +115,7 @@ export const aboutPageContent: AboutPageContent = {
     description: ``, // Markdown is supported
     items: [
       {
-        title: "Sistema de reconocimiento automatico de matriculas (ANPR)",
+        title: "Sistema de control y gestión vehicular por medio de inteligencia artificial",
         company: {
           name: "IA",
           image: "/aboutme/itech-home.png",

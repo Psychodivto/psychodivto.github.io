@@ -16,7 +16,7 @@
     "@astrojs/react": "^4.3.0",
     "@astrojs/tailwind": "^6.0.2",
     "@astropub/md": "^0.4.0",
-    "astro": "^5.13.2",
+    "astro": "^5.18.0",
     "astro-icon": "^1.1.4",
     "esbuild": "^0.25.0",
     "mdast-util-to-string": "^4.0.0",
@@ -31,5 +31,17 @@
     "gh-pages": "^6.3.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.15"
-  }
+  },
+  "main": "tailwind.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psychodivto/psychodivto.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Psychodivto/psychodivto.github.io/issues"
+  },
+  "homepage": "https://github.com/Psychodivto/psychodivto.github.io#readme",
+  "description": ""
 }
