@@ -10,9 +10,9 @@ import type {
 
 export const identity: Identity = {
   name: "Diego Conde",
-  logo: "/PicRetouch_20240719_070444396.png",
+  logo: "/profile.png",
   email: "perezcondediegoivan@outlook.com",
-  image: "/DiegoConde.pdf",
+  image: "/Diego_Ivan_Perez_Conde_Desarrollador.pdf",
 };
 
 export const navBarLinks: NavBarLink[] = [
@@ -63,7 +63,7 @@ export const homePageContent: HomePageContent = {
       "Innovation begins with exploration, solutions with code.",
     image: identity.logo,
   },
-  role: "Desarrollador Full Stack Web",
+  role: "Ingeniero de Software",
   description:
     "La innovación comienza explorando ideas, y las soluciones cobran vida a través del código.",
   socialLinks: socialLinks,
@@ -78,7 +78,7 @@ export const homePageContent: HomePageContent = {
     },
     {
       title: "CV",
-      url: "/DiegoConde.pdf"
+      url: "/Diego_Ivan_Perez_Conde_Desarrollador.pdf"
     }
   ],
 };
